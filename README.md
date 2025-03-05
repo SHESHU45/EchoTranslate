@@ -30,7 +30,7 @@ Transform spoken words into text and translate them into any language effortless
 ## Get Started  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/yourusername/voice2globe.git  
+   git clone https://github.com/yourusername/EchoTranslate.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
