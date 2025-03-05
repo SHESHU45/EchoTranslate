@@ -32,12 +32,15 @@ Transform spoken words into text and translate them into any language effortless
    ```bash  
    git clone https://github.com/yourusername/voice2globe.git  
    ```  
-2. Install dependencies:  
+2. Navigate to the project directory:  
+   ```bash  
+   cd EchoTranslate
+   ```  
+3. Install dependencies:  
    ```bash  
    npm install  
-   ```
-   
-3. Run the project:  
+   ```  
+4. Run the project:  
    ```bash  
    npm run dev  
    ```  
@@ -47,5 +50,4 @@ We welcome contributions! Whether it's fixing bugs, improving accuracy, or addin
 
 ---
 
-**Voice2Globe** is licensed under [MIT License](LICENSE).  
-```
+**EchoTranslate** is licensed under [MIT License](LICENSE).
